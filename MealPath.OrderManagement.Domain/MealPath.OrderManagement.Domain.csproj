@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Entities\Cart.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Entities\Cart.cs" />
+  </ItemGroup>
+
+</Project>
