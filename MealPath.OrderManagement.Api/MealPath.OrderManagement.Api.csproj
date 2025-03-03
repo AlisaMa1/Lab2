@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+	<TargetFramework>net6.0</TargetFramework>
+	<Nullable>enable</Nullable>
+	<ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+	<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.10">
+	  <PrivateAssets>all</PrivateAssets>
+	  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	</PackageReference>
+	<PackageReference Include="Stripe.net" Version="39.63.0" />
+	<PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+	<ProjectReference Include="..\MealPath.OrderManagement.Application\MealPath.OrderManagement.Application.csproj" />
+	<ProjectReference Include="..\MealPath.OrderManagement.Identity\MealPath.OrderManagement.Identity.csproj" />
+	<ProjectReference Include="..\MealPath.OrderManagement.Orders\MealPath.OrderManagement.Orders.csproj" />
+	<ProjectReference Include="..\MealPath.OrderManagement.Persistence\MealPath.OrderManagement.Persistence.csproj" />
+  </ItemGroup>
+
+
+	<!--<ItemGroup>
+		<Folder Include="Controllers\"/>
+	</ItemGroup>-->
+</Project>
