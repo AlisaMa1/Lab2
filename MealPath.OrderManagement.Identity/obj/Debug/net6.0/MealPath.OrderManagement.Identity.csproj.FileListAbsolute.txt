@@ -1,0 +1,14 @@
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Identity\bin\Debug\net6.0\MealPath.OrderManagement.Identity.deps.json
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Identity\bin\Debug\net6.0\MealPath.OrderManagement.Identity.runtimeconfig.json
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Identity\bin\Debug\net6.0\MealPath.OrderManagement.Identity.dll
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Identity\bin\Debug\net6.0\MealPath.OrderManagement.Identity.pdb
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Identity\obj\Debug\net6.0\MealPath.OrderManagement.Identity.csproj.AssemblyReference.cache
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Identity\obj\Debug\net6.0\MealPath.OrderManagement.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Identity\obj\Debug\net6.0\MealPath.OrderManagement.Identity.AssemblyInfoInputs.cache
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Identity\obj\Debug\net6.0\MealPath.OrderManagement.Identity.AssemblyInfo.cs
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Identity\obj\Debug\net6.0\MealPath.OrderManagement.Identity.csproj.CoreCompileInputs.cache
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Identity\obj\Debug\net6.0\MealPath.OrderManagement.Identity.dll
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Identity\obj\Debug\net6.0\refint\MealPath.OrderManagement.Identity.dll
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Identity\obj\Debug\net6.0\MealPath.OrderManagement.Identity.pdb
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Identity\obj\Debug\net6.0\MealPath.OrderManagement.Identity.genruntimeconfig.cache
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Identity\obj\Debug\net6.0\ref\MealPath.OrderManagement.Identity.dll
