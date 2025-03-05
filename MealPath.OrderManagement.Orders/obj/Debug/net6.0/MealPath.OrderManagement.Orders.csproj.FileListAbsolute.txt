@@ -1,0 +1,17 @@
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Orders\bin\Debug\net6.0\MealPath.OrderManagement.Orders.deps.json
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Orders\bin\Debug\net6.0\MealPath.OrderManagement.Orders.dll
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Orders\bin\Debug\net6.0\MealPath.OrderManagement.Orders.pdb
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Orders\bin\Debug\net6.0\MealPath.OrderManagement.Application.dll
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Orders\bin\Debug\net6.0\MealPath.OrderManagement.Domain.dll
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Orders\bin\Debug\net6.0\MealPath.OrderManagement.Application.pdb
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Orders\bin\Debug\net6.0\MealPath.OrderManagement.Domain.pdb
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Orders\obj\Debug\net6.0\MealPath.OrderManagement.Orders.csproj.AssemblyReference.cache
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Orders\obj\Debug\net6.0\MealPath.OrderManagement.Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Orders\obj\Debug\net6.0\MealPath.OrderManagement.Orders.AssemblyInfoInputs.cache
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Orders\obj\Debug\net6.0\MealPath.OrderManagement.Orders.AssemblyInfo.cs
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Orders\obj\Debug\net6.0\MealPath.OrderManagement.Orders.csproj.CoreCompileInputs.cache
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Orders\obj\Debug\net6.0\MealPath.8D16901A.Up2Date
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Orders\obj\Debug\net6.0\MealPath.OrderManagement.Orders.dll
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Orders\obj\Debug\net6.0\refint\MealPath.OrderManagement.Orders.dll
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Orders\obj\Debug\net6.0\MealPath.OrderManagement.Orders.pdb
+C:\Users\eremi\OneDrive\Desktop\MealPath.OrderManagement-master\MealPath.OrderManagement.Orders\obj\Debug\net6.0\ref\MealPath.OrderManagement.Orders.dll
