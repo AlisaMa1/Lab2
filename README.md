@@ -67,7 +67,4 @@ To be able to run this project you should have these technologies installed on y
 - .NET 6: https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 - Node Js >18.x.x: https://nodejs.org/en/download
 - npm: preferably: 10.2.4: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
-## Meta
 
-Arber Zeka – [@ArberZeka](https://www.linkedin.com/in/arber-zeka-742452220/) 
-Erion Ismajli [@ErionIsmajli](https://www.linkedin.com/in/erion-ismajli/)
